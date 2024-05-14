@@ -55,6 +55,8 @@ from routes import pages
 from pymongo import MongoClient
 from dotenv import load_dotenv
 
+
+# test for commit
 load_dotenv()
 
 def create_app():
